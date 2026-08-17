@@ -11,11 +11,11 @@
 
 ### About me
 
-I am an Electronics and Telecommunication Engineering undergraduate with hands-on experience in circuit design, PCB design, networking, embedded systems, and robotics. I enjoy solving practical engineering problems by turning ideas into working prototypes.
+I am an Electronics and Telecommunication Engineering undergraduate while pursuing military training with hands-on experience in circuit design, PCB design, networking, embedded systems, and robotics. I enjoy solving practical engineering problems by turning ideas into working prototypes.
 
 I am currently seeking an internship in embedded systems, telecommunications, electronics testing, IoT, or robotics where I can contribute while developing stronger industry-level engineering practice.
 
-### Completed project
+### Completed individual project
 
 #### Wearable acoustic direction indicator — Individual project
 
@@ -23,15 +23,15 @@ Built and tested an ESP32-based wearable prototype that estimates an approximate
 
 [View the firmware, hardware documentation, and prototype evidence →](https://github.com/avishka4771-ui/wearable-acoustic-direction-indicator)
 
-### Completed and academic work
+### Completed group projects
 
-#### Autonomous mobile robot — Four-member team project
+#### Autonomous mobile robot — Four-members
 
 - Contributed to an Arduino Mega-based robot designed for line following, obstacle navigation, colour identification, and object-handling tasks.
 - Integrated line sensors, ultrasonic and ToF ranging, colour sensing, DC motor control, and a servo-driven manipulator.
 - Worked within a constrained budget while developing and testing the robot as a complete system.
 
-#### Seven-segment timer and counter — Group project
+#### Seven-segment timer and counter — Six-members
 
 - Helped design and build a large seven-segment timer and counter for a swimming-pool environment.
 - Used an ESP8266 to control WS2812B addressable LEDs installed inside custom 3D-printed display segments.
